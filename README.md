@@ -57,5 +57,6 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 ---
 
 ### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&layout=compact&theme=default">
+</div>
