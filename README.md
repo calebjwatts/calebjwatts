@@ -32,8 +32,12 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 
 ### 📖 Certifications :
 <div align="center">
-  <img src="https://github.com/hackermonke/hackermonke/blob/main/github-advanced-security.png" title="GitHub Advanced Security" alt="GitHub Advanced Security" width="128" height="128"/>&nbsp;
-  <img src="https://github.com/hackermonke/hackermonke/blob/main/cyberres-fortify-certified-presales-engineer-mfcpe.png" title="CyberRes-Fortify Certified Presales Engineer (MFCPE)" alt="CyberRes-Fortify Certified Presales Engineer (MFCPE)" width="128" height="128"/>&nbsp;
+  <a href="https://www.credly.com/badges/05b413fe-737f-4323-a54a-68d16990dcd3/public_url">
+    <img src="https://github.com/hackermonke/hackermonke/blob/main/github-advanced-security.png" title="GitHub Advanced Security" alt="GitHub Advanced Security" width="128" height="128"/>&nbsp;
+  </a>
+  <a href="https://www.credly.com/badges/2d0a6043-585a-42cb-9f82-9656bde04f87/public_url">
+    <img src="https://github.com/hackermonke/hackermonke/blob/main/cyberres-fortify-certified-presales-engineer-mfcpe.png" title="CyberRes-Fortify Certified Presales Engineer (MFCPE)" alt="CyberRes-Fortify Certified Presales Engineer (MFCPE)" width="128" height="128"/>&nbsp;
+  </a>
 </div>
 
 ---
