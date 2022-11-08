@@ -31,11 +31,15 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 ---
 
 ### 📖 Certifications :
+<div align="center">
+  <img src="https://github.com/hackermonke/hackermonke/blob/main/github-advanced-security.png" title="GitHub Advanced Security" alt="GitHub Advanced Security" width="128" height="128"/>&nbsp;
+  <img src="https://github.com/hackermonke/hackermonke/blob/main/cyberres-fortify-certified-presales-engineer-mfcpe.png" title="CyberRes-Fortify Certified Presales Engineer (MFCPE)" alt="CyberRes-Fortify Certified Presales Engineer (MFCPE)" width="128" height="128"/>&nbsp;
+</div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
