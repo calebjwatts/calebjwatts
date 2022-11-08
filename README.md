@@ -10,8 +10,8 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=hackermonke&style=flat-square&color=blue" alt=""/>
   <h1>
-    G'day!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    G'day, I'm Caleb!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   </h1>
 </div>
 <div id="banner" align="center">
