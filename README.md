@@ -59,14 +59,11 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 ### :fire: My Stats :
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=dark">
-    <img alt="Light mode stats" src="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00">
+    <img alt="Light mode stats" src="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=default&hide_border=true">
   </picture>
-</div>
-<p></p>
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=dark">
-    <img alt="Light mode top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00">
+    <img alt="Light mode top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=default&hide_border=true">
   </picture>
 </div>
