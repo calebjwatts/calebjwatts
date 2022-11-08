@@ -27,6 +27,11 @@ I am a Computer Science student from Newcastle, Australia 🇦🇺
 - 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at UNSW Sydney
 - ⚡ In my free time I go to local tech and cyber meetups
 
+
+---
+
+### 📖 Certifications :
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
