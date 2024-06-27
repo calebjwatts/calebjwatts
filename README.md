@@ -16,10 +16,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a guy who likes magic thinking rocks from Newcastle, Australia 🇦🇺
+I am a guy who likes magic thinking rocks from Sydney, Australia 🇦🇺
 
 - 🦜 I am an ex Junior Security Consultant at [Galah Cyber](https://www.galahcyber.com.au) now working in Auspol
-- 📚 I am currently a third year Bachelor of Science (Computer Science) / Bachelor of Arts student at UNSW Sydney
+- 📚 I am currently a fourth year Bachelor of Science (Computer Science) / Bachelor of Arts student at UNSW Sydney
 - ⚡ In my free time I go to local tech and cyber meetups
 
 
