@@ -28,10 +28,10 @@ I am a guy who likes magic thinking rocks from Sydney, Australia 🇦🇺
 ### 📖 Certifications :
 <div align="center">
   <a href="https://www.credly.com/badges/05b413fe-737f-4323-a54a-68d16990dcd3/public_url">
-    <img src="https://github.com/hackermonke/hackermonke/blob/main/github-advanced-security.png" title="GitHub Advanced Security" alt="GitHub Advanced Security" width="128" height="128"/>&nbsp;
+    <img src="https://github.com/calebjwatts/calebjwatts/blob/main/github-advanced-security.png" title="GitHub Advanced Security" alt="GitHub Advanced Security" width="128" height="128"/>&nbsp;
   </a>
   <a href="https://www.credly.com/badges/2d0a6043-585a-42cb-9f82-9656bde04f87/public_url">
-    <img src="https://github.com/hackermonke/hackermonke/blob/main/cyberres-fortify-certified-presales-engineer-mfcpe.png" title="CyberRes-Fortify Certified Presales Engineer (MFCPE)" alt="CyberRes-Fortify Certified Presales Engineer (MFCPE)" width="128" height="128"/>&nbsp;
+    <img src="https://github.com/calebjwatts/calebjwatts/blob/main/cyberres-fortify-certified-presales-engineer-mfcpe.png" title="CyberRes-Fortify Certified Presales Engineer (MFCPE)" alt="CyberRes-Fortify Certified Presales Engineer (MFCPE)" width="128" height="128"/>&nbsp;
   </a>
 </div>
 
@@ -59,11 +59,11 @@ I am a guy who likes magic thinking rocks from Sydney, Australia 🇦🇺
 ### :fire: My Stats :
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=calebjwatts&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00">
     <img alt="Light mode stats" src="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=default&hide_border=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjwatts&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00">
     <img alt="Light mode top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=default&hide_border=true">
   </picture>
 </div>
