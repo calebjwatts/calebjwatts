@@ -60,10 +60,10 @@ I am a guy who likes magic thinking rocks from Sydney, Australia 🇦🇺
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=calebjwatts&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00">
-    <img alt="Light mode stats" src="https://github-readme-stats.vercel.app/api?username=hackermonke&show_icons=true&theme=default&hide_border=true">
+    <img alt="Light mode stats" src="https://github-readme-stats.vercel.app/api?username=calebjwatts&show_icons=true&theme=default&hide_border=true">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjwatts&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=ffffff00">
-    <img alt="Light mode top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermonke&langs_count=10&layout=compact&theme=default&hide_border=true">
+    <img alt="Light mode top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjwatts&langs_count=10&layout=compact&theme=default&hide_border=true">
   </picture>
 </div>
